@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 50px;
+  background-color: rgb(34, 34, 34);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+h1 {
+  font-size: 42px;
+  padding: 10px;
+  color: white;
+}
+button {
+  background-color: rgb(32, 43, 51);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.cross {
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 180px;
+  font-weight: 800;
+  font-size: 32px;
+}
+.stopwatch {
+  background-color: rgb(22, 27, 31);
+  color: white;
+  text-align: center;
+  width: 400px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+}
+.display {
+  font-size: 40px;
+}
+.button-holder {
+  margin-top: 30px;
+}
