@@ -49,3 +49,16 @@ button {
 .button-holder {
   margin-top: 30px;
 }
+.countdown {
+  background-color: rgb(22, 27, 31);
+  color: white;
+  text-align: center;
+  width: 400px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+}
+.countdown-label {
+  font-size: 25px;
+  padding: 20px;
+}
